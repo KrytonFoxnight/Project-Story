@@ -1,0 +1,8 @@
+﻿Command,Name,Path,Dialogue/Code,Position
+SET_PROPERTY,MUSIC,MadRatDead.wav,,
+DIALOGUE_DATA_START,,,,
+,상태창!,Illustration/PrologueScene_01.png,우-유가 사라진 나,BACKGROUND
+,주인공,Illustration/PrologueScene_02.png,아니 야발 내 우유가!,BACKGROUND
+,,Illustration/PrologueScene_03.png,하아니 이걸 어카지,BACKGROUND
+,,Illustration/PrologueScene_04.png,(대사 쓸게 없다),BACKGROUND
+DIALOGUE_DATA_END,,,,

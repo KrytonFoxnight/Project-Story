@@ -1,0 +1,7 @@
+﻿Command,Name,Path,Dialogue/Code,Position
+DIALOGUE_DATA_START,,,,
+,나도밤,Character/ImNight_Default_LD.png,그... 지금 대본 만들면서 느꼈는데,6
+,,,컴파일러 과제 기능을 또 구현하고 있는듯,
+,이바다,Character/Bada_Default_LD.png,근데 기능 구현하면 쩔지 않을까?,2
+,이바다,Character/Bada_Default_LD.png,ㅋㅋ ㅈㅅ,
+DIALOGUE_DATA_END,,,,

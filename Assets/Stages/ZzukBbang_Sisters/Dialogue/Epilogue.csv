@@ -1,0 +1,8 @@
+﻿Command,Name,Path,Dialogue/Code,Position
+SET_PROPERTY,MUSIC,MadRatDead.wav,,
+DIALOGUE_DATA_START,,,,
+,The C.A.T,Illustration/PrologueScene_01.png,왔구나 찍식이...,
+,Mr.ZZIK,Illustration/PrologueScene_02.png,뒤도 안돌아보고 가던데?,
+,나? 개발?자,Illustration/PrologueScene_03.png,아 이제 테스트 끝났으니까 슬슬 꺼보도록 할게요,
+,응 끝났어~,Illustration/PrologueScene_04.png,테스트가 끝났으니 이제 가도 죠습니다.,
+DIALOGUE_DATA_END,,,,

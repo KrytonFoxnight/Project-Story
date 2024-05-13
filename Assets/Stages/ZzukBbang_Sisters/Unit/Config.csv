@@ -1,0 +1,5 @@
+﻿Name,Resource Doc,Type,MaxMovingCost,MaxHP,MaxAttackCnt,AttackPoint,ArmorPoint,VisionPoint,isPlayable
+이바다,Bada,INFRANTRY,4,10,3,3,2,7,Y
+나도밤,Bam,MEDIC,5,5,3,1,2,7,Y
+탱-크,Tank,ARMORED,7,20,7,5,10,3,N
+흑막,Boss,BOSS,999,999,999,999,999,999,N

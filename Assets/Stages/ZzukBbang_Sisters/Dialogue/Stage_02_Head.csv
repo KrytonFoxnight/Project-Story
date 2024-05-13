@@ -1,0 +1,11 @@
+﻿Command,Name,Path,Dialogue/Code,Position
+DIALOGUE_DATA_START,,,,
+,이바다,Character/Bada_Default_LD.png,이번에는 무슨 말을 해볼까?,2
+,,,거 추천좀 해봐라.,
+,나도밤,Character/ImNight_Default_LD.png,아니 도망치느라 바쁜데 말도 하라고? 이거이거 시간을 끌려고 하는게 보이는데?,6
+,이바다,Character/Bada_Default_LD.png,사실 그 목적도 있긴해,2
+,나도밤,Character/ImNight_Default_LD.png,말하겠냐?,6
+,이바다,Character/Bada_Default_LD.png,말해야지,2
+,나도밤,Character/ImNight_Default_LD.png,어차피 다음 대사로 끝인데 마저 도망갈게 ㅅㄱㄹ,6
+,이바다,Character/Bada_Default_LD.png,에휴...,2
+DIALOGUE_DATA_END,,,,

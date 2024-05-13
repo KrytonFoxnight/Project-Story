@@ -1,0 +1,11 @@
+﻿Command,Name,Path,Dialogue/Code,Position
+DIALOGUE_DATA_START,,,,
+,이바다,Character/Bada_Default_LD.png,어우,2
+,,,님님 이제 보스전임,
+,나도밤,Character/ImNight_Default_LD.png,엥 ㄹㅇ?,6
+,이바다,Character/Bada_Default_LD.png,이제는! 더이상!,2
+,나도밤,Character/ImNight_Default_LD.png,물러날 곳이 읎따!,6
+,이바다,Character/Bada_Default_LD.png,그런고로 에필로그 테스트를 위해 죽어주세요...,2
+,나도밤,Character/ImNight_Default_LD.png,겠냐?,6
+,이바다,Character/Bada_Default_LD.png,그치?,2
+DIALOGUE_DATA_END,,,,

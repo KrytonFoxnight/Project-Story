@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4172745167601192681
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4172745167601192679}
+  - component: {fileID: 4172745167601192680}
+  m_Layer: 0
+  m_Name: GridManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4172745167601192679
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4172745167601192681}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4172745167601192680
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4172745167601192681}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37d9bea25998fcc41b600168076a3f13, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  map_name: 
+  map_width: 10
+  map_height: 10
+  save_path: 
+  border_grid: {fileID: 1144593873733416193, guid: 1b510c67dbf610140981bbb5e391a603, type: 3}
+  plain_grid: {fileID: 6819476047150214763, guid: eeae269d72912c84c8057ac426036f88, type: 3}
+  mountain_grid: {fileID: 2936346567260856529, guid: a257ea29ea6fb6740ad227515df871e3, type: 3}
+  forest_grid: {fileID: 1947493729010155475, guid: 9d20cdbcc1c3b8545a432574b4cc65fc, type: 3}
+  swamp_grid: {fileID: 6595239617808293863, guid: bdb87ce842333de4691b18ec96d208e0, type: 3}
+  cam: {fileID: 0}
+  sign_grid: {fileID: 4086945758279297046, guid: c9558565a7ecc1340a21099a9b4d9979, type: 3}
+  magnification: 20
+  x_offset: -10
+  y_offset: 10

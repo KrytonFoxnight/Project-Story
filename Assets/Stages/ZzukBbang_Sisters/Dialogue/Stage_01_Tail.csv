@@ -1,0 +1,6 @@
+﻿Command,Name,Path,Dialogue/Code,Position
+DIALOGUE_DATA_START,,,,
+,이바다,Character/Bada_Default_LD.png,딱밤 슛~,2_LD
+,나도밤,Character/ImNight_Default_LD.png,거 너무 아픈거 아니오,6_LD
+,이바다,Character/Bada_Default_LD.png,ㅋㅋ ㅈㅅ,2_LD
+DIALOGUE_DATA_END,,,,

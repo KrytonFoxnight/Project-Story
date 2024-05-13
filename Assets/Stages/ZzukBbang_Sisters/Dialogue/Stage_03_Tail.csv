@@ -1,0 +1,7 @@
+﻿Command,Name,Path,Dialogue/Code,Position
+DIALOGUE_DATA_START,,,,
+,나도밤,Character/ImNight_Default_LD.png,아 이걸죽네;;,6
+,,,에필로그 준비해놓고 있을테니 대사나 더 쳐라 ㅅㄱ,
+,이바다,Character/Bada_Default_LD.png,저저저 먼저 홀따락 가버리는거 봐라,2
+,,,이제 충분하제?,
+DIALOGUE_DATA_END,,,,
